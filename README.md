@@ -2,4 +2,4 @@
 
 ## Maven project
 
-##AppTest.java and pom.xml
+AppTest.java and pom.xml
